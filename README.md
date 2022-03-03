@@ -4,6 +4,7 @@
 
 Run "Koch Snowflake.py" to generate a Koch snowflake.
 ![Koch Snowflake image](images/Koch Snowflake.gif)
+
 Run "Koch Anti-Snowflake.py" to generate a Koch anti-snowflake.
 ![Koch Anti-Snowflake image](images/Koch Anti-Snowflake.gif)
 
