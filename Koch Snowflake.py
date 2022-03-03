@@ -15,6 +15,7 @@ def drawline(length, recursion):
 
 hideturtle()
 speed(0)
+title("Koch Snowflake")
 
 penup()
 left(90)
@@ -23,7 +24,7 @@ right(90)
 pendown()
 
 length = 660
-recursion = 5
+recursion = 4
 right(60)
 
 for x in range(0, 3):

@@ -4,6 +4,7 @@ from random import randint
 hideturtle()
 speed(0)
 penup()
+title('Sierpinski Triangle')
 
 vertex1 = (0, 385)
 vertex2 = (-400, -365)
