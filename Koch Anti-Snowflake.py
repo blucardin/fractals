@@ -1,17 +1,8 @@
 from turtle import*
-import time
-
-speed(0)
 
 
 def drawline(length, recursion):
     if recursion == 0:
-        forward(length)
-        right(60)
-        forward(length)
-        left(120)
-        forward(length)
-        right(60)
         forward(length)
     else:
         drawline(length/3, recursion-1)
@@ -23,16 +14,20 @@ def drawline(length, recursion):
         drawline(length / 3, recursion - 1)
 
 hideturtle()
+speed(0)
+
 penup()
 left(90)
-forward(455)
+forward(385)
 right(90)
 pendown()
-length = 300
-recursion = 5
+
+length = 800
+recursion = 0
 right(60)
+
 for x in range(0, 3):
     drawline(length, recursion)
     right(120)
 
-time.sleep(5)
+done()
