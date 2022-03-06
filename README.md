@@ -22,3 +22,5 @@ Run "Sierpinski Triangle Breath First FASTEST.py" to generate a Sierpinski trian
 
 <img src="https://user-images.githubusercontent.com/55935207/156935021-527fe4d6-eb41-421b-a8e2-8305f1a872c2.gif" width="400" height="400" />
 
+Run "Sierpinski Triangle Depth First FASTEST.py" to generate a Sierpinski triangle depth first. Its gets really detailed on one part and works its way out. 
+<img src="https://user-images.githubusercontent.com/55935207/156935420-9652881c-b48c-4826-a852-9a61fb15f99c.gif" width="400" height="400" />
