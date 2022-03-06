@@ -20,5 +20,5 @@ Run "Sierpinski Triangle fastrender.py" to generate a Sierpinski triangle fast, 
 
 Run "Sierpinski Triangle Breath First FASTEST.py" to generate a Sierpinski triangle breath first. Its gets more and more detail the longer it runs.
 
-![Sierpinski Triangle Breath First FASTEST](https://user-images.githubusercontent.com/55935207/156934625-98fcd869-7459-495c-9c00-5364068dde1e.png)
+![Screen Recording 2022-03-06 at 12 02 13 PM (1)](https://user-images.githubusercontent.com/55935207/156935021-527fe4d6-eb41-421b-a8e2-8305f1a872c2.gif)
 
