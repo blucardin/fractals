@@ -17,3 +17,8 @@ Run "Sierpinski Triangle.py" to generate a Sierpinski triangle slowly, point by 
 Run "Sierpinski Triangle fastrender.py" to generate a Sierpinski triangle fast, all at once.
 
 <img src="https://user-images.githubusercontent.com/55935207/156492202-5fd18e67-e245-4f11-ba47-967f5ce73406.png" width="400" height="400" />
+
+Run "Sierpinski Triangle Breath First FASTEST.py" to generate a Sierpinski triangle breath first. Its gets more and more detail the longer it runs.
+
+![Sierpinski Triangle Breath First FASTEST](https://user-images.githubusercontent.com/55935207/156934625-98fcd869-7459-495c-9c00-5364068dde1e.png)
+
